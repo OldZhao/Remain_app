@@ -1,0 +1,3 @@
+
+Hello!
+the directory which you init at is your work direcotry.using 'git status' in that. if else, in the subdirectory , it would show a false mesg 'this operation must be run in a work tree'..

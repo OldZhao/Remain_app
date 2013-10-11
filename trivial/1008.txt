@@ -1,0 +1,4 @@
+使用Bcrypt对密码进行加密
+
+cat Gemfile|grep bcr
+gem 'bcrypt-ruby', '~> 3.0.0'

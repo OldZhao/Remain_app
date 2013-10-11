@@ -1,0 +1,6 @@
+使用'bcrypt-ruby'加密
+# To use ActiveModel has_secure_password
+gem 'bcrypt-ruby', '~> 3.0.0'
+
+
+使用Capistrano 自动部署
